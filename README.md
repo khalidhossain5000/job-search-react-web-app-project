@@ -1,15 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 ## Project Name: Job Circle - Job Search React App.
 
@@ -46,4 +34,34 @@ If you are developing a production application, we recommend using TypeScript wi
 -- react-router
 -- react-spinners
 -- tailwindcss
+---
+## 🚀 How to Run This Project Locally
+
+Follow these simple steps to run the project on your local machine:
+
+### 1. Download or Clone the Project
+
+You can either:
+
+- **Download ZIP**  
+  - Click the green **“Code”** button in the GitHub repository  
+  - Select **“Download ZIP”**  
+  - Extract the ZIP file to your desired location
+
+**OR**
+
+- **Clone with Git** 
+
+## 2. Navigate to the Project Folder
+
+### Install Dependencies : 
+## Make sure you have Node.js installed, then run:
+    npm install
+
+## 4. Start the Development Server
+open cmd
+run below command
+npm run dev/ npm start
+
+## 5. This will run the app locally at http://localhost:3000.
 -------------------------All Rights Reserved--------------------
