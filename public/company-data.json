@@ -1,0 +1,363 @@
+[
+    {
+      "id": "1",
+      "name": "Google",
+      "logo": "https://logo.clearbit.com/google.com",
+      "location": "Mountain View, California, USA",
+      "website": "https://www.google.com",
+      "industry": "Technology",
+      "jobs": [
+        {
+          "id": "job-001",
+          "title": "Frontend Developer",
+          "bannerImage": "https://i.ibb.co.com/chNhk6Qt/01-font-end-dev-job.jpg",
+          "location": "Mountain View, CA",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Build and maintain Google’s front-end interfaces.",
+          "requirements": [
+            "Proficient in HTML, CSS, and JavaScript",
+            "Experience with React or Angular",
+            "Understanding of web performance optimization",
+            "Good communication skills"
+          ]
+        },
+        {
+          "id": "job-002",
+          "title": "Software Engineer",
+          "bannerImage": "https://i.ibb.co.com/m54b1Ccb/02-soft-eng.jpg",
+          "location": "Mountain View, CA",
+          "salary": "$120,000 - $150,000",
+          "jobType": "Full-time",
+          "description": "Design and develop software solutions.",
+          "requirements": [
+            "Proficient in Python, Java, or C++",
+            "Strong problem-solving skills",
+            "Experience with cloud platforms like GCP or AWS",
+            "Team collaboration experience"
+          ]
+        },
+        {
+          "id": "job-003",
+          "title": "UX Designer",
+          "bannerImage": "https://i.ibb.co.com/Kjd497wx/03-ui-ux.jpg",
+          "location": "San Francisco, CA",
+          "salary": "$95,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Work with teams to design intuitive user experiences.",
+          "requirements": [
+            "Proficient in Figma, Sketch, or Adobe XD",
+            "Experience with user research and testing",
+            "Strong understanding of design principles",
+            "Excellent communication skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "logo": "https://logo.clearbit.com/microsoft.com",
+      "location": "Redmond, Washington, USA",
+      "website": "https://www.microsoft.com",
+      "industry": "Software & Hardware",
+      "jobs": [
+        {
+          "id": "job-004",
+          "title": "Backend Developer",
+          "bannerImage": "https://i.ibb.co.com/VYK07S1z/04-backend.jpg",
+          "location": "Remote",
+          "salary": "$110,000 - $140,000",
+          "jobType": "Full-time",
+          "description": "Develop and maintain backend services.",
+          "requirements": [
+            "Proficient in C#, .NET, or Node.js",
+            "Experience with databases like SQL or NoSQL",
+            "Strong understanding of RESTful APIs",
+            "Experience with cloud services like Azure"
+          ]
+        },
+        {
+          "id": "job-005",
+          "title": "Cloud Architect",
+          "bannerImage": "https://i.ibb.co.com/MxLnf4Lc/05-cloud-architec.jpg",
+          "location": "Redmond, WA",
+          "salary": "$130,000 - $170,000",
+          "jobType": "Full-time",
+          "description": "Design scalable and reliable cloud infrastructure.",
+          "requirements": [
+            "Experience with Azure, AWS, or Google Cloud",
+            "Strong knowledge of cloud architectures",
+            "Proficiency in infrastructure as code (e.g., Terraform)",
+            "Excellent problem-solving skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Amazon",
+      "logo": "https://logo.clearbit.com/amazon.com",
+      "location": "Seattle, Washington, USA",
+      "website": "https://www.amazon.com",
+      "industry": "E-commerce & Cloud Computing",
+      "jobs": [
+        {
+          "id": "job-006",
+          "title": "Solutions Architect",
+          "bannerImage": "https://i.ibb.co.com/6chCXp7n/06-solution-architect.jpg",
+          "location": "Seattle, WA",
+          "salary": "$130,000 - $160,000",
+          "jobType": "Full-time",
+          "description": "Design scalable and efficient solutions for customers.",
+          "requirements": [
+            "Experience with cloud computing platforms",
+            "Strong knowledge of AWS services",
+            "Ability to communicate technical concepts to non-technical audiences",
+            "Experience with enterprise-level architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Apple",
+      "logo": "https://logo.clearbit.com/apple.com",
+      "location": "Cupertino, California, USA",
+      "website": "https://www.apple.com",
+      "industry": "Technology",
+      "jobs": [
+        {
+          "id": "job-007",
+          "title": "iOS Developer",
+          "bannerImage": "https://i.ibb.co.com/QvYbNzM5/07-ios-dev.jpg",
+          "location": "Cupertino, CA",
+          "salary": "$120,000 - $150,000",
+          "jobType": "Full-time",
+          "description": "Develop and maintain iOS applications.",
+          "requirements": [
+            "Proficient in Swift or Objective-C",
+            "Experience with Xcode and iOS frameworks",
+            "Familiarity with REST APIs and JSON",
+            "Excellent debugging skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Meta",
+      "logo": "https://logo.clearbit.com/meta.com",
+      "location": "Menlo Park, California, USA",
+      "website": "https://www.meta.com/",
+      "industry": "Social Media & Technology",
+      "jobs": [
+        {
+          "id": "job-008",
+          "title": "Product Manager",
+          "bannerImage": "https://i.ibb.co.com/twgRjxRZ/08-product-mngmnt.jpg",
+          "location": "Menlo Park, CA",
+          "salary": "$130,000 - $160,000",
+          "jobType": "Full-time",
+          "description": "Oversee product development from concept to launch.",
+          "requirements": [
+            "Experience in product management",
+            "Strong understanding of user-centered design",
+            "Excellent communication and leadership skills",
+            "Experience with agile development methodologies"
+          ]
+        },
+        {
+          "id": "job-009",
+          "title": "Data Engineer",
+          "bannerImage": "https://i.ibb.co.com/fVmdLjnD/09-data-eng.jpg",
+          "location": "Menlo Park, CA",
+          "salary": "$120,000 - $150,000",
+          "jobType": "Full-time",
+          "description": "Design and build data pipelines to support large-scale data systems.",
+          "requirements": [
+            "Proficient in SQL, Python, or Java",
+            "Experience with big data tools like Hadoop or Spark",
+            "Experience with cloud-based data platforms",
+            "Strong problem-solving skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Netflix",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "location": "Los Gatos, California, USA",
+      "website": "https://www.netflix.com",
+      "industry": "Entertainment & Streaming",
+      "jobs": [
+        {
+          "id": "job-010",
+          "title": "Content Strategist",
+          "bannerImage": "https://i.ibb.co.com/ynVjC7Ty/10-contnet.jpg",
+          "location": "Los Gatos, CA",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Develop and execute content strategies for Netflix’s platform.",
+          "requirements": [
+            "Experience in content creation or strategy",
+            "Strong communication skills",
+            "Ability to analyze data and trends",
+            "Experience in digital marketing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Tesla",
+      "logo": "https://logo.clearbit.com/tesla.com",
+      "location": "Palo Alto, California, USA",
+      "website": "https://www.tesla.com",
+      "industry": "Automotive & Energy",
+      "jobs": [
+        {
+          "id": "job-011",
+          "title": "Mechanical Engineer",
+          "bannerImage": "https://i.ibb.co.com/Cs3Ky7h9/011-mechanical-eng.jpg",
+          "location": "Fremont, CA",
+          "salary": "$90,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Design and test mechanical systems for Tesla products.",
+          "requirements": [
+            "Bachelor’s degree in Mechanical Engineering",
+            "Experience with CAD software like SolidWorks",
+            "Strong problem-solving skills",
+            "Experience in automotive or energy industry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Spotify",
+      "logo": "https://logo.clearbit.com/spotify.com",
+      "location": "Stockholm, Sweden",
+      "website": "https://www.spotify.com",
+      "industry": "Music Streaming",
+      "jobs": [
+        {
+          "id": "job-012",
+          "title": "Audio Engineer",
+          "bannerImage": "https://i.ibb.co.com/RTD7ssnC/012-audion-eng.jpg",
+          "location": "Stockholm, SE",
+          "salary": "$80,000 - $110,000",
+          "jobType": "Full-time",
+          "description": "Work with the team to create high-quality audio content.",
+          "requirements": [
+            "Experience with audio editing software",
+            "Strong knowledge of sound engineering",
+            "Ability to work in a fast-paced environment",
+            "Attention to detail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Adobe",
+      "logo": "https://logo.clearbit.com/adobe.com",
+      "location": "San Jose, California, USA",
+      "website": "https://www.adobe.com",
+      "industry": "Software",
+      "jobs": [
+        {
+          "id": "job-013",
+          "title": "UI/UX Designer",
+          "bannerImage": "https://i.ibb.co.com/Kjd497wx/03-ui-ux.jpg",
+          "location": "San Jose, CA",
+          "salary": "$90,000 - $115,000",
+          "jobType": "Full-time",
+          "description": "Create stunning and intuitive UI/UX designs for Adobe products.",
+          "requirements": [
+            "Proficient in design tools like Photoshop, Illustrator, and XD",
+            "Strong portfolio of design work",
+            "Experience in user-centered design",
+            "Excellent problem-solving skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Space X",
+      "logo": "https://logo.clearbit.com/spacex.com",
+      "location": "Hawthorne, California, USA",
+      "website": "https://www.spacex.com",
+      "industry": "Aerospace & Engineering",
+      "jobs": [
+        {
+          "id": "job-014",
+          "title": "Rocket Engineer",
+          "bannerImage": "https://i.ibb.co.com/XrNJ1QxZ/014-rocket-eng.jpg",
+          "location": "Hawthorne, CA",
+          "salary": "$120,000 - $150,000",
+          "jobType": "Full-time",
+          "description": "Design and develop spacecraft systems and components.",
+          "requirements": [
+            "Experience with CAD software",
+            "Strong knowledge of rocket propulsion systems",
+            "Bachelor’s degree in Aerospace Engineering",
+            "Ability to work in a fast-paced environment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Nvidia",
+      "logo": "https://logo.clearbit.com/nvidia.com",
+      "location": "Santa Clara, California, USA",
+      "website": "https://www.nvidia.com",
+      "industry": "Semiconductors & Technology",
+      "jobs": [
+        {
+          "id": "job-015",
+          "title": "GPU Developer",
+          "bannerImage": "https://i.ibb.co.com/r2Fvz668/015-gpu.jpg",
+          "location": "Santa Clara, CA",
+          "salary": "$130,000 - $160,000",
+          "jobType": "Full-time",
+          "description": "Develop and optimize GPU technologies for various applications.",
+          "requirements": [
+            "Experience with CUDA or OpenCL",
+            "Proficient in C++ or Python",
+            "Strong knowledge of GPU architecture",
+            "Experience in machine learning or AI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Intel",
+      "logo": "https://logo.clearbit.com/intel.com",
+      "location": "Santa Clara, California, USA",
+      "website": "https://www.intel.com",
+      "industry": "Semiconductors & Technology",
+      "jobs": [
+        {
+          "id": "job-016",
+          "title": "Hardware Engineer",
+          "bannerImage": "https://i.ibb.co.com/S79Y75rz/016-hardware-eng.jpg",
+          "location": "Santa Clara, CA",
+          "salary": "$110,000 - $140,000",
+          "jobType": "Full-time",
+          "description": "Design and develop cutting-edge hardware solutions.",
+          "requirements": [
+            "Experience with hardware design and development",
+            "Strong knowledge of electronic circuits",
+            "Proficiency in simulation software",
+            "Bachelor’s degree in Electrical Engineering"
+          ]
+        }
+      ]
+    }
+  ]
+  
