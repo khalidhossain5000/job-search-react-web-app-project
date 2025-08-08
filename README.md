@@ -7,14 +7,6 @@
 From this platform user can easily find job listing from diffrent companies,review job critiera and see requirements to determine whether they meet qualifications before applying.
 
 
-### Purpose :
-
-The purpose of this website is to simplify of managing books,
-users.Keep data about all the books and users also keeping the
-data about borrowed books by users.It provides the librians
-and users a easy-to-use interface for tracking books,issueing
-books , and record data about it.
-
 ## 🚀🚀 Project Live Url : https://job-search-react-app-project.netlify.app/
 
 
