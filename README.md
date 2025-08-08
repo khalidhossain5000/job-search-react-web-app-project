@@ -108,19 +108,19 @@ http://localhost:3000
 
 **FrontEnd:**
 
--- tailwindcss/vite
--- daisyui
--- firebase
--- motion
--- react
--- react-dom
--- react-fast-marquee
--- react-helmet-asy
--- react-hot-toast
--- react-icons
--- react-router
--- react-spinners
--- tailwindcss
+- tailwindcss/vite
+- daisyui
+- firebase
+- motion
+- react
+- react-dom
+- react-fast-marquee
+- react-helmet-asy
+- react-hot-toast
+- react-icons
+- react-router
+- react-spinners
+- tailwindcss
 
 **BackEnd:**
 
