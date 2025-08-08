@@ -96,13 +96,13 @@ http://localhost:3000
 
 # Features
 
-✅ Top company job listing.
-✅ Easy to find Available job from across the world.
-✅ User Authentication system.
-✅ User Registration and login system with my-profile and update profile-info functionality.
-✅ Reset Password Options.
-✅ Able to contact company for job easily.
-✅ Fully Responsive able to use in any size of device.
+- Top company job listing.
+- Easy to find Available job from across the world.
+- User Authentication system.
+- User Registration and login system with my-profile and update profile-info functionality.
+- Reset Password Options.
+- Able to contact company for job easily.
+- Fully Responsive able to use in any size of device.
 
 ## Dependencies :
 
