@@ -30,6 +30,7 @@ You can either:
   - Click the green **“Code”** button in the GitHub repository  
   - Select **“Download ZIP”**  
   - Extract the ZIP file to your desired location
+# Or
 
 ### 1. **Clone the repository**
 ```bash
